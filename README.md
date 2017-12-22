@@ -19,3 +19,5 @@ Modify setup.cfg for static link library and run python build
 
 This will generate needed libary in <SOURCE_CODE>/psycopg2-2.6.1/build/lib.linux-x86_64-2.7/psycopg2
 
+# Lambda output
+![alt text](images/AWS_Lambda_pg_connect.png "Lambda execution output screen shot")
